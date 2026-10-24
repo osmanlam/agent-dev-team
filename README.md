@@ -46,7 +46,7 @@ Plain Markdown + standard agent frontmatter. Works with Claude Code (`.claude/ag
 
 ## Free vs Pro bundle
 
-The repo is the full core product and always will be. The **Pro bundle** ([Gumroad → your-link-here]) adds the things that are easiest to deliver as a package:
+The repo is the full core product and always will be. The **Pro bundle** (launching on Gumroad — watch [releases](../../releases)) adds the things that are easiest to deliver as a package:
 
 | | Repo (free) | Pro bundle |
 |---|---|---|
